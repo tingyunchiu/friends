@@ -17,4 +17,3 @@ or
 Type anything in the text input
 
 Final note: if you go to Add Friend and click on "Add Friend" nothing will happen besides any alert pop up
-Because this project has not yet connect to a database so far and this will be done soon
