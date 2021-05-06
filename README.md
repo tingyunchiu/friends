@@ -16,5 +16,5 @@ or
 # To log in, you need to
 Type anything in the text input
 
-# Finally note: if you go to Add Friend and click on "Add Friend" nothing will happen besides any alert pop up
-# because this project has not yet connect to a database so far and this will be done soon
+Final note: if you go to Add Friend and click on "Add Friend" nothing will happen besides any alert pop up
+Because this project has not yet connect to a database so far and this will be done soon
