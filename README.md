@@ -1,13 +1,13 @@
 # friends
 
-# To clone this project:
+# To clone this project, run:
 git clone https://github.com/tingyunchiu/friends.git
 
 # After sucessful cloned, go into your folder and run: 
 npm install
 
 # To see the App, you need to 
-1. Download 'expo' on your phone
+1. Download the 'expo' app on your phone
 2. Run: npm start
 3. Scan the QR code with expo on your phone 
 or
