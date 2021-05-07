@@ -16,4 +16,4 @@ or
 # To log in, you need to
 Type anything in the text input
 
-Final note: if you go to Add Friend and click on "Add Friend" nothing will happen besides any alert pop up
+Final note: if you go to Add Friend and click on "Add Friend" nothing will happen besides an alert pop up
